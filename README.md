@@ -29,10 +29,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="40" height="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40" height="40"/>&nbsp;
 
-- 🔭 I’m currently working on getting my next AWS certification
-- 🌱 I’m currently mastering K8S & Helm
+- 🔭 I’m currently working on getting my next AWS & K8s certification
+- 🌱 I’m currently mastering Linux & Docker
 - 👯 I’m looking to collaborate on DevOps issues
 - 💬 Ask me about anything
 - 📫 How to reach me: With a smile
-- ⚡ Fun fact: "I dance as if no one is watching"
+- ⚡ Fun fact: "A few minutes of playing Video Games clear the head and solves everything :)"
 
