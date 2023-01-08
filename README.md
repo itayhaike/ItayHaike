@@ -1,4 +1,4 @@
-http://fallontonight.tumblr.com/post/124804405003/its-almost-showtime-pals-come-hang-out-on
+<p align="center"><img src="[https://github.com/shay79il/shay79il/blob/main/need-for-speed.gif](http://fallontonight.tumblr.com/post/124804405003/its-almost-showtime-pals-come-hang-out-on)" width="400"/></p>
 
 ### Hi there 👋 I'm ItayHaike
 
