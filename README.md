@@ -1,5 +1,4 @@
-<p align="center"><img src="[https://github.com/shay79il/shay79il/blob/main/need-for-speed.gif](http://fallontonight.tumblr.com/post/124804405003/its-almost-showtime-pals-come-hang-out-on)" width="400"/></p>
-
+<p align="center"><img src="https://media.giphy.com/media/OF0yOAufcWLfi/giphy.gif" width="400"/></p>
 ### Hi there 👋 I'm ItayHaike
 
 <a href="https://www.linkedin.com/in/itay-haike/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
