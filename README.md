@@ -1,4 +1,3 @@
-<p align="center"><img src="https://github.com/shay79il/shay79il/blob/main/need-for-speed.gif" width="400"/></p>
 
 
 ### Hi there 👋 I'm ItayHaike
