@@ -33,7 +33,3 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: With a smile
 - ⚡ Fun fact: "A few minutes of playing Video Games clear the head and solves everything :)"
-
-<p align="center"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400"/></p>
-
-
