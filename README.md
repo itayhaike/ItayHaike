@@ -1,4 +1,4 @@
-<p align="center"><img src="https://tenor.com/view/tux-linux-penguin-computer-typing-busy-gif-13909126" width="400"/></p>
+<p align="center"><img src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="400"/></p>
 
 # Hi there 👋 I'm Itay Haike #
 
