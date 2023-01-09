@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/OF0yOAufcWLfi/giphy.gif" width="400"/></p>
+<p align="center"><img src="https://tenor.com/view/big-data-gif-25444307" width="400"/></p>
 
 # Hi there 👋 I'm Itay Haike #
 
