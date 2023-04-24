@@ -31,7 +31,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40" height="40"/>&nbsp;
 
 - 🔭 I’m currently working on getting my next AWS & K8s certification
-- 🌱 I’m currently mastering Linux & Docker
+- 🌱 I’m currently mastering Linux & Openshift & containerized applications
 - 👯 I’m looking to collaborate on DevOps issues
 - 💬 Ask me about anything
 - 📫 How to reach me: With a smile
