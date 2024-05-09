@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNuZWZqdzhvdHA5eTZsc2E3eDR3bGt6YTl3Nnd1bjY4ajh5MXV6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Xw8jY3zbFRtFd6eK8/giphy.gif" width="400"/></p>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTR3aXBtNnF6cnMyZ3E3ZjlscnByZDBna3Z1eTFpZ2VoNmhuYTRxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHH6uarNnFSIEWQ/giphy.gif" width="400"/></p>
 
 # Hi there 👋 I'm Itay Haike #
 
